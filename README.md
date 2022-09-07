@@ -1,6 +1,5 @@
 # 基于springboot的个人博客管理系统
 
-![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
 
 ## 1、项目介绍
 
